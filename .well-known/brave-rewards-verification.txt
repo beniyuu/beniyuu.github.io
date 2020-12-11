@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: beniyuu.github.io
+Token: 4b28688b65dac0950c92af19ac22845ceaf9356e32b517de90116e1dd670ace7
