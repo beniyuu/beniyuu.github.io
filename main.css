@@ -32,7 +32,7 @@ a:active {
 #header {
   text-align : center;
   font-size: 18px;
-  color : #f7f3e1;
+  /*color : #f7f3e1;*/
   position : fixed;
   width : 100% ;
   background : #faf3d2;
