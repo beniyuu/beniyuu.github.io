@@ -32,10 +32,10 @@ a:active {
 #header {
   text-align : center;
   font-size: 18px;
-  color : #ffffff;
+  color : #faf3d2;
   position : fixed;
   width : 100% ;
-  background : black;
+  background : #faf3d2;
   top :0px;
   height : 80px;
 
