@@ -31,6 +31,7 @@ a:active {
 
 #header {
   text-align : center;
+  font-family: "Roboto Condensed";
   font-size: 18px;
   text-color : white;
   position : fixed;
