@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  font-family: "Century Gothic";
+  font-family: "Roboto Condensed";
   background-color : #f7f3e1;
   background-position: center;
 }
@@ -26,7 +26,7 @@ a:active {
 }
 
 #title {
-  font-family: "Baskerville Old Face"
+  font-family: "Roboto Condensed"
 }
 
 #header {
